@@ -2,6 +2,12 @@ def binarysearch(n,arr):
     #logic 
     low=0
     high=len(arr)-1 #or len(arr) but -1 is better
+    if low==high: #if only one element
+        if arr[low]==n:
+            return low
+        else: #if no element
+            return -1
+
     while(low<=high):
         mid=(low+(high-low)//2)
         if arr[mid]==n:
@@ -13,5 +19,5 @@ def binarysearch(n,arr):
     return -1 #esc case as element not found
 #logic ends
 n=10
-arr=[0,1,2,3,4,5,6,7,8,9,10]
+arr=[]
 print(binarysearch(n,arr))
