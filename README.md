@@ -112,13 +112,14 @@
 	
 <p align="center">
     <a href="https://bit.ly/3FvaHo9" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/codestudio-1.png" width="500px" height="150px" /> </a> 
-	<br>
-	<a href="https://bit.ly/3FvaHo9" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&vCenter=true&color=F78D1AFF&size=75&width=620&height=80&lines=Learning+Resources"/> </a>
 </p>
 
 <div align="center">
 
 ## `🏆 Tables`
+<details>
+  <summary>Learning Resources</summary>
+	<a href="https://bit.ly/3FvaHo9" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&vCenter=true&color=F78D1AFF&size=75&width=620&height=80&lines=Learning+Resources"/> </a>
 
 | SNo. | Topics | Sub Topics |
 |------|--------|------------|
@@ -127,6 +128,10 @@
 | 3.   | [📘DSA + CP](https://www.codingninjas.com/codestudio/guided-paths) <hr> [📘Top Problem Lists](https://bit.ly/3v0rudC)   | [1️⃣Data Structures and Algorithms](https://bit.ly/3V5h7Qx) <br> [2️⃣Competitive Programming](https://www.codingninjas.com/codestudio/guided-paths/competitive-programming) <hr> [1️⃣Striver SDE Sheet](https://bit.ly/3hu7GfF) <br> [2️⃣Love Babbar DSA Sheet](https://bit.ly/3uTFyFM)|
 | 4.   | [📘Technical Subject](https://www.codingninjas.com/codestudio/guided-paths?category=interview-preparation)              | [1️⃣Operating System](https://bit.ly/3HKNaSK) <br> [2️⃣Database Management System](https://bit.ly/3FX5k2e) <br> [3️⃣Computer Networks](https://bit.ly/3BHlNFv) <br> [4️⃣Object Oriented Programming in C++](https://bit.ly/3WrQgzn) <br>&emsp; [4️⃣🅰️Object Oriented Programming in Python](https://www.codingninjas.com/codestudio/guided-paths/oops-in-python) <br>&emsp; [4️⃣🅱️Object Oriented Programming in Java](https://www.codingninjas.com/codestudio/guided-paths/oops-in-java) <br> [5️⃣System Design](https://www.codingninjas.com/codestudio/guided-paths/system-design)|
 
+</details>
+
+<details>
+  <summary>Important Books</summary>
 <a href="https://bit.ly/3FvaHo9" target="_blank"> <img src="https://readme-typing-svg.herokuapp.com?font=Impact&center=true&vCenter=true&color=308D46&size=75&width=600&height=80&lines=Important+Books"/> </a>
 <table border="3">
 	<thead>
@@ -231,7 +236,7 @@
 		</tr>
 	</tbody>
 </table>
-
+</details>
 </div>
 
 <!-- # [`Community Exchange`](https://education.github.com/globalcampus/exchange?utf8=%E2%9C%93&q=sort%3Astar_desc)
@@ -263,7 +268,7 @@
 ### `Social Networks:`
 <table border="3">
   <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="60" /></a></td>
-  <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
+  <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh030318@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
   <td align="center"><a href="https://github.com/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" alt="Akash's GitHub" width="55"/></a></td>
   <td align="center"><a href="https://medium.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" alt="Akash's Medium" width="55"/></a></td>
   <td align="center"><a href="https://twitter.com/intent/follow?screen_name=akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" alt="Akash's Twitter" width="55" /></a></td>
@@ -291,16 +296,16 @@
 <table border="3">
   <td align="center"><a href="https://leetcode.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="55"/></a></td>
   <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" alt="GeeksforGeeks" width="65" height="55"/></a></td>
-  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Coding%20Ninjas.png" alt="Coding Ninjas" width="65"/></a></td>
+  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/CodeStudio.png" alt="Coding Ninjas Studio" width="65"/></a></td>
   <td align="center"><a href="https://workat.tech/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/workattech.png" alt="work@tech" width="65"/></a></td>
   <td align="center"><a href="https://www.hackerrank.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="55"/></a></td>
   <tr>
-  <td align="center"><a href="https://leetcode.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=FF7F50&logo=leetcode&svgfill=white"></a></td>
+  <td align="center"><a href="https://leetcode.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=D29613&logo=leetcode&svgfill=black"></a></td>
   <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=geeksforgeeks&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=F78D1A&logo=coding%20ninjas&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=fA7328&logo=Coding%20Ninjas%20Studio&svgfill=darkblue"></a></td>
   <td align="center"><a href="https://workat.tech/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=work@tech&svgfill=white"></a></td>
   <td align="center"><a href="https://www.hackerrank.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=hackerrank&svgfill=white"></a></td>
-    <tr>
+  <tr>
   <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="HackerEarth" width="55"/></a></td>
   <td align="center"><a href="https://www.interviewbit.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/InterviewBit.png" alt="InterviewBit" width="65" hright="65"/></a></td>
   <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StopStalk.png" alt="StopStalk" width="65"/></a></td>
@@ -312,19 +317,20 @@
   <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=StopStalk&svgfill=white"></a></td>
   <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=FE7A16&logo=stackoverflow&svgfill=white"></a></td>
   <td align="center"><a href="https://www.kaggle.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=20BEFF&logo=kaggle&svgfill=white"></a></td>
+  <tr>
+  <td align="center"><a href="https://www.sololearn.com/profile/11234680" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/sololearn.png" alt="SoloLearn" width="55"/></a></td>
+  <td align="center"><a href="https://app.codesignal.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/codesignal.png" alt="CodeSignal" width="65" hright="65"/></a></td>
+  <td align="center"><a href="https://codepen.io/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/codepen.png" alt="CodePen" width="65"/></a></td>
+  <td align="center"><a href="https://www.freecodecamp.org/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/freeCodeCamp.png" alt="freeCodeCamp" width="55"/></a></td>
+  <td align="center"><a href="https://jovian.com/akashsingh1245" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/jovian.png" alt="Jovian" width="40"/></a></td>
+  <tr>
+  <td align="center"><a href="https://www.sololearn.com/profile/11234680"><img src="https://readme-components.vercel.app/api?component=logo&fill=crimson&logo=SoloLearn&svgfill=blue"></a></td>
+  <td align="center"><a href="https://app.codesignal.com/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=Code%20Signal&svgfill=white"></a></td>
+  <td align="center"><a href="https://codepen.io/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CodePen&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.freecodecamp.org/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=0A0A23&logo=freeCodeCamp&svgfill=white"></a></td>
+  <td align="center"><a href="https://jovian.com/akashsingh1245"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=Jovian&svgfill=white"></a></td>
 </table>
-<table border="3">
-	<td><img src="https://forthebadge.com/images/badges/for-you.svg" /></td>
-	<td><img src="https://forthebadge.com/images/badges/built-with-love.svg" /></td>
-	<td><img src="https://forthebadge.com/images/badges/open-source.svg" /></td>
-</table>
-<table border="3">
-	<td><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" /></td>
-	<td><img src="https://forthebadge.com/images/badges/made-with-c.svg" /></td>
-	<td><img src="http://ForTheBadge.com/images/badges/made-with-c-plus-plus.svg" /></td>
-	<td><img src="http://ForTheBadge.com/images/badges/made-with-java.svg" /></td>
-	<td><img src="http://ForTheBadge.com/images/badges/made-with-javascript.svg" /></td>
-</table>
+
 <table border="3">
 	<td><img src="https://forthebadge.com/images/badges/built-by-developers.svg" /></td>
 	<td><img src="https://forthebadge.com/images/badges/uses-html.svg" /></td>
@@ -374,37 +380,44 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
             <th> SNo. </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/0%5D.%20Miscellaneous%20Stuff"> 
-					<img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=for-the-badge"> -->
+					<code>Miscellaneous_Stuff</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/1%5D.%20DSA%20%2B%20CP"> 
-					<img src="https://img.shields.io/badge/DSA_+_CP-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/DSA_+_CP-orange?style=for-the-badge"> -->
+					<code>DSA + CP</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/2%5D.%20Technical%20Subjects"> 
-					<img src="https://img.shields.io/badge/Technical_Subjects-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Technical_Subjects-orange?style=for-the-badge"> -->
+					<code>Core Subjects</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/3%5D.%20System%20Design"> 
-					<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge"> -->
+					<code>System Design</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/4%5D.%20Projects"> 
-					<img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Projects-orange?style=for-the-badge"> -->
+					<code>Projects</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/5%5D.%20Important%20Books%20and%20Resources"> 
-					<img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=for-the-badge"> -->
+					<code>Important Books and Resources</code>
 				</a>
             </th>
             <th> 
 				<a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/tree/master/6%5D.%20Behavioural%20Interview"> 
-					<img src="https://img.shields.io/badge/Behavioural_Interview-orange?style=for-the-badge">
+<!-- 					<img src="https://img.shields.io/badge/Behavioural_Interview-orange?style=for-the-badge"> -->
+					<code>Behavioural Questions</code>
 				</a>
             </th>
         </tr>
@@ -413,6 +426,8 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
         <tr>
             <td valign="top"> 1. </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Miscellaneous_Stuff-orange?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -451,8 +466,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary> <img src="https://img.shields.io/badge/DSA+CP-green?style=plastic"> </summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -987,8 +1005,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Core_Subjects-crimson?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1049,6 +1070,8 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                 </table>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/System_Design-orange?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1077,8 +1100,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Projects-orange?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1147,8 +1173,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Important_Books_and_Resources-orange?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1562,8 +1591,11 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
             <td valign="top">
+			<details>
+			  <summary><img src="https://img.shields.io/badge/Behavioural_Questions-blue?style=plastic"></summary>
                 <table border="5">
                     <thead>
                         <tr>
@@ -1582,6 +1614,7 @@ Technical Subjects (OS + DBMS + SQL + CN + OOP) Theory+Questions, FAANG Intervie
                         </tr>
                     </tbody>
                 </table>
+			</details>
             </td>
         </tr>
     </tbody>
@@ -1853,7 +1886,7 @@ git checkout -b <your_branch_name>
 
 6. Stage your changes and commit
 ```css
-git add -A
+git add .
 
 git commit -m "<your_commit_message>"
 ```
