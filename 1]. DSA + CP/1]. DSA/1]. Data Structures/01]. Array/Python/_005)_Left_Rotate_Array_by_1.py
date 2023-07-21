@@ -4,14 +4,13 @@ Function to rotate an the first element
 
 
 def left_rotate(arr, num):
-    tmp = arr[0]
-
-    for index in range(1, num):
-        arr[index - 1] = arr[index]
-
-    arr[num - 1] = tmp
-
-
+ #METHOD 1
+      for index in range(num):
+        arr.append(arr.pop(0)) #revisit this line
+        #append means add the element in the last of the list
+        #pop means delete the element from the list
+    #METHOD 2 . # arr[1: ]+arr[0:1] #means 1 to last element + 0 to 1 element
+       
 arr = [1, 2, 3, 4, 5]
 num = 2
 

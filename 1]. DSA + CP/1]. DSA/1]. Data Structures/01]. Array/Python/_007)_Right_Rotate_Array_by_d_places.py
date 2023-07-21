@@ -1,17 +1,11 @@
-#optimized method using reverse function
-def reverse(lst, l, r):
-    while(l<r):
-        lst[l], lst[r] = lst[r], lst[l]
-        l+=1
-        r-=1
+arr = [1, 2, 3, 4, 5]
+num = 2
 
-def optimized(l,d):
-    n = len(l)
-    reverse(l,0,n-1)
-    reverse(l,0,d-1)
-    reverse(l,d,n-1)
+# Performing right rotation on the array
+arr[:] =  arr[-num:]+arr[:-num] 
+#-num means from the last element to num-1 element
+#arr[-num:] means from the last element to num-1 element
+#arr[:num] means 0 to num-1 element
+#arr[:] means the whole array
 
-l = [10,20,30,40,50]
-d = 3
-optimized(l,d)
-print(l)
+print(arr)  # Output: [4, 5, 1, 2, 3]
